@@ -30,6 +30,6 @@ echo "\n";
 }
 
 // Driver Code
-$n = 5;
+$n = 6;
 pypart($n);
 ?>
